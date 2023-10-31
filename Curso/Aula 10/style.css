@@ -1,0 +1,22 @@
+body {
+    font:normal 18pt Arial;
+}
+input {
+    font: normal 18pt;
+    width: 100px;
+}
+    div#res {
+        margin-top: 20px;
+    }
+    h1{
+        background-color: rgb(216, 9, 9);
+        margin: 100px 100px 100px 100px;
+        text-decoration-color: aqua;
+        text-align: center;
+      
+    }
+    h2{
+        background-color: rgb(180, 102, 0);
+        text-align: center;
+     }
+     
